@@ -1,5 +1,5 @@
 # Python
-Python code and samples built to learn in a University Diploma
+Python code and samples built to learn in a University Diploma. This material and sample code was created to make profing in the UNTREF Backend development University Diploma. Do not distribute free this material under another licenses, is just for learning purposes.
 
 ## Python - Clase 01
 
