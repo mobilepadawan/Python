@@ -7,4 +7,8 @@ Lecture dedicated to introduction to Python language, seting up the coding envir
 
 ## Python - Clase 02
 
+Constants, variables, conditionals and functions in Python.
+
+## Python - Clase 03
+
 
